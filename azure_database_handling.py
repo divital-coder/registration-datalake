@@ -29,8 +29,8 @@ Password VARCHAR(255));
 
 inserting_sample_value = """
 INSERT INTO USER_DATA (Username, Email_address, Password) VALUES
-('nigga','nigga1@gmail.com','nigga123'),
-('nigga_two','nigga@yahoo.com','nigg3');
+('again','again@gmail.com','again123'),
+('lemim','nlime@yahoo.com','lemon');
 """
 fetch_data = """
 select * from USER_DATA;
